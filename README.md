@@ -5,6 +5,10 @@ resume for free and download in pdf format . Future progress that i am planing  
 # The site is hosted on netlify giving the link here.
 Do check it out .
 https://preeminent-cascaron-666045.netlify.app/
+
+# Adding a ScreenShot 
+![image](https://github.com/user-attachments/assets/dfaa538c-529f-4471-85f5-c146f3cbb176)
+
 # Resume Builder
 
 A modern, interactive resume builder application built with React, TypeScript, and Tailwind CSS. Create professional resumes with ease, featuring real-time preview and PDF export capabilities.
