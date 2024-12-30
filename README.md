@@ -1,3 +1,10 @@
+# Problem
+Today everyone is seeking to get a ats friendly resume which is hard to find a free one so i create a site whixh will provide this feature of creating your
+resume for free and download in pdf format . Future progress that i am planing  to do is listed below.
+
+# The site is hosted on netlify giving the link here.
+Do check it out .
+https://preeminent-cascaron-666045.netlify.app/
 # Resume Builder
 
 A modern, interactive resume builder application built with React, TypeScript, and Tailwind CSS. Create professional resumes with ease, featuring real-time preview and PDF export capabilities.
